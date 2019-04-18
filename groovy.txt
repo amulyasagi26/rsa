@@ -1,0 +1,7 @@
+agent {
+  label 'kamsr07cs142'
+}
+when {
+  branch 'test'
+  beforeAgent true
+}
